@@ -1,11 +1,3 @@
-/*
-*
-*
-*       By Sara Sobhy & Fatma Hesham
-*
-*
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>    //  header file for gotoxy
